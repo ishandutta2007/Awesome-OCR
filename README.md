@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishan/Awesome-OCR/stargazers"><img src="https://img.shields.io/github/stars/ishan/Awesome-OCR?style=for-the-badge&color=yellow" alt="Stars"></a>
-  <a href="https://github.com/ishan/Awesome-OCR/network/members"><img src="https://img.shields.io/github/forks/ishan/Awesome-OCR?style=for-the-badge&color=blue" alt="Forks"></a>
-  <a href="https://github.com/ishan/Awesome-OCR/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-OCR/stargazers"><img src="https://img.shields.io/github/stars/ishan/Awesome-OCR?style=for-the-badge&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-OCR/network/members"><img src="https://img.shields.io/github/forks/ishan/Awesome-OCR?style=for-the-badge&color=blue" alt="Forks"></a>
+  <a href="https://github.com/ishandutta2007/Awesome-OCR/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-red.svg?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
