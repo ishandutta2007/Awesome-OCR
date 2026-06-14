@@ -3,7 +3,7 @@
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Optical Character Recognition, Document Intelligence & Text Extraction*  
-**Last updated: March 2026**
+**Last updated: June 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **OCR Engines & Tools**. These solutions extract text from scanned documents, images, PDFs, handwritten notes, and complex layouts with high accuracy, layout analysis, and multilingual support.
 
@@ -21,20 +21,22 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (OCR Engines & Tools)
+### OCR SaaS Pricing Comparison (2026)
 
-- **[Google Cloud Vision](https://cloud.google.com/vision)**  
-  Enterprise-grade OCR with excellent handwriting recognition, document understanding, and dense text extraction.
+| Product | Description | Pricing (Paid Tier) | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Google Cloud Vision](https://cloud.google.com/vision)** | General-purpose OCR with excellent multilingual support and handwriting recognition. | ~$1.50 per 1,000 units (billed per image/page) | **1,000 units/month** (Free forever) |
+| **[Amazon Textract](https://aws.amazon.com/textract/)** | Specialized in extracting text, tables, and forms from structured documents. | $0.0015 - $0.015 per page (tiered by feature) | **1,000 pages/month** (First 3 months only) |
+| **[Microsoft Azure AI Vision](https://azure.microsoft.com/en-us/products/ai-services/ai-vision)** | Enterprise OCR with layout analysis and seamless Azure integration. | ~$1.50 per 1,000 transactions | **5,000 transactions/month** (F0 tier) |
+| **[OCR.space](https://ocr.space/)** | Lightweight web-based OCR API with a generous free tier for developers. | $30/month for 300,000 requests | **25,000 requests/month** (Free) |
+| **[Nanonets](https://nanonets.com/)** | AI-driven IDP platform for automated invoice and receipt processing. | $0.30/page + $499/mo starter fee | **500 pages** (One-time trial) |
+| **[ABBYY Vantage](https://www.abbyy.com/vantage/)** | High-accuracy enterprise Intelligent Document Processing (IDP). | Custom (~$0.02/page + setup) | **2,000 pages** (60-day trial) |
+| **[Rossum](https://rossum.ai/)** | AI-native document extraction focused on Accounts Payable and logistics. | Starts at ~$1,500/month (Annual commitment) | **14-day trial** (No perpetual free tier) |
 
-- **[Amazon Textract](https://aws.amazon.com/textract/)**  
-  AWS service specialized in extracting text, tables, and forms from documents with high accuracy.
-
-- **[Microsoft Azure Computer Vision](https://azure.microsoft.com/en-us/products/ai-services/ai-vision)**  
-  Powerful OCR with layout analysis, handwriting, and integration with Azure Document Intelligence.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: ABBYY FineReader, Rossum, and various document AI platforms.
+### Key Considerations
+- **"Free Forever" vs. Trial:** Google and Azure offer perpetual monthly limits, while AWS and ABBYY use time-limited trials.
+- **Structured Data:** Use **Amazon Textract** or **Nanonets** if you need to extract tables and forms specifically.
+- **High Volume / Low Cost:** **OCR.space** offers the highest number of free requests for basic OCR needs.
 
 ## Open-Source GitHub Projects
 
