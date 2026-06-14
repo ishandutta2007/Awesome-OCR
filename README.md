@@ -23,15 +23,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### OCR SaaS Pricing Comparison (2026)
 
-| Product | Description | Pricing (Paid Tier) | Free Tier Limit |
-| :--- | :--- | :--- | :--- |
-| **[Google Cloud Vision](https://cloud.google.com/vision)** | General-purpose OCR with excellent multilingual support and handwriting recognition. | ~$1.50 per 1,000 units (billed per image/page) | **1,000 units/month** (Free forever) |
-| **[Amazon Textract](https://aws.amazon.com/textract/)** | Specialized in extracting text, tables, and forms from structured documents. | $0.0015 - $0.015 per page (tiered by feature) | **1,000 pages/month** (First 3 months only) |
-| **[Microsoft Azure AI Vision](https://azure.microsoft.com/en-us/products/ai-services/ai-vision)** | Enterprise OCR with layout analysis and seamless Azure integration. | ~$1.50 per 1,000 transactions | **5,000 transactions/month** (F0 tier) |
-| **[OCR.space](https://ocr.space/)** | Lightweight web-based OCR API with a generous free tier for developers. | $30/month for 300,000 requests | **25,000 requests/month** (Free) |
-| **[Nanonets](https://nanonets.com/)** | AI-driven IDP platform for automated invoice and receipt processing. | $0.30/page + $499/mo starter fee | **500 pages** (One-time trial) |
-| **[ABBYY Vantage](https://www.abbyy.com/vantage/)** | High-accuracy enterprise Intelligent Document Processing (IDP). | Custom (~$0.02/page + setup) | **2,000 pages** (60-day trial) |
-| **[Rossum](https://rossum.ai/)** | AI-native document extraction focused on Accounts Payable and logistics. | Starts at ~$1,500/month (Annual commitment) | **14-day trial** (No perpetual free tier) |
+| Product | Description | Company Size (Revenue/Valuation) | Pricing (Paid Tier) | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Amazon Textract](https://aws.amazon.com/textract/)** | Specialized in extracting text, tables, and forms from structured documents. | **$716B+** (Annual Revenue) | $0.0015 - $0.015 per page | **1,000 pages/month** (First 3 months) |
+| **[Google Cloud Vision](https://cloud.google.com/vision)** | General-purpose OCR with excellent multilingual support and handwriting recognition. | **$422B+** (Annual Revenue) | ~$1.50 per 1,000 units | **1,000 units/month** (Free forever) |
+| **[Microsoft Azure AI Vision](https://azure.microsoft.com/en-us/products/ai-services/ai-vision)** | Enterprise OCR with layout analysis and seamless Azure integration. | **$281B+** (Annual Revenue) | ~$1.50 per 1,000 transactions | **5,000 transactions/month** (F0 tier) |
+| **[Nanonets](https://nanonets.com/)** | AI-driven IDP platform for automated invoice and receipt processing. | **~$1.8B** (Valuation) | $0.30/page + $499/mo starter | **500 pages** (One-time trial) |
+| **[ABBYY Vantage](https://www.abbyy.com/vantage/)** | High-accuracy enterprise Intelligent Document Processing (IDP). | **~$1.6B** (Valuation) | Custom (~$0.02/page + setup) | **2,000 pages** (60-day trial) |
+| **[Rossum](https://rossum.ai/)** | AI-native document extraction (acquired by Coupa Software). | **~$1B** (Estimated Valuation) | ~$1,500/mo (Annual) | **14-day trial** |
+| **[OCR.space](https://ocr.space/)** | Lightweight web-based OCR API with a generous free tier for developers. | **~$35M** (Estimated Valuation) | $30/mo for 300,000 requests | **25,000 requests/month** (Free) |
+
 
 ### Key Considerations
 - **"Free Forever" vs. Trial:** Google and Azure offer perpetual monthly limits, while AWS and ABBYY use time-limited trials.
