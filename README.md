@@ -107,7 +107,7 @@ Explore the most powerful open-source OCR engines for local deployment and fine-
 - **[light-ocr](https://github.com/arcships/light-ocr)** [![Stars](https://img.shields.io/github/stars/arcships/light-ocr?style=social&color=white)](https://github.com/arcships/light-ocr/stargazers)  
   ⚡ **Offline Node.js and C++ OCR** powered by PP-OCRv6 Small, with prebuilt macOS, Linux, and Windows runtimes, hardware acceleration, and line-level coordinates.
 
-- **[LlamaOCR](https://github.com/search?q=LlamaOCR)**  
+- **[LlamaOCR](https://github.com/yYorky/LlamaOCR)**   [![Stars](https://img.shields.io/github/stars/yYorky/LlamaOCR?style=social&color=white)](https://github.com/yYorky/LlamaOCR/stargazers)  
   🦙 Community-driven solutions using **Llama models** for high-accuracy extraction.
 
 ---
