@@ -65,6 +65,9 @@ Explore the most powerful open-source OCR engines for local deployment and fine-
 - **[PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)** [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers)  
   🏆 **State-of-the-art** toolkit with ultra-high accuracy and support for 80+ languages. Excellent layout analysis.
 
+- **[light-ocr](https://github.com/arcships/light-ocr)** [![Stars](https://img.shields.io/github/stars/arcships/light-ocr?style=social&color=white)](https://github.com/arcships/light-ocr/stargazers)  
+  ⚡ **Offline Node.js and C++ OCR** powered by PP-OCRv6 Small, with prebuilt macOS, Linux, and Windows runtimes, hardware acceleration, and line-level coordinates.
+
 - **[Tesseract](https://github.com/tesseract-ocr/tesseract)** [![Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers)  
   🏛️ The **gold standard** of open-source OCR. Highly accurate and widely used in production pipelines.
 
