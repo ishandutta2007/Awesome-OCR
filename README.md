@@ -53,6 +53,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 | **[ABBYY Vantage](https://www.abbyy.com/vantage/)** | High-accuracy enterprise Intelligent Document Processing (IDP). | **~$1.6B** (Valuation) | Custom (~$0.02/page + setup) | **2,000 pages** (60-day trial) |
 | **[Rossum](https://rossum.ai/)** | AI-native document extraction (acquired by Coupa Software). | **~$1B** (Estimated Valuation) | ~$1,500/mo (Annual) | **14-day trial** |
 | **[OCR.space](https://ocr.space/)** | Lightweight web-based OCR API with a generous free tier for developers. | **~$35M** (Estimated Valuation) | $30/mo for 300,000 requests | **25,000 requests/month** (Free) |
+| **[만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/)** | 만화 번역기 AI는 기업급 만화 리더에서 이미지 글자를 인식하고 100개 이상 언어와 모든 지원 언어를 번역합니다. 개인에게 일괄·맞춤 번역을, 스튜디오에 완전한 온라인 Photoshop형 편집기를 제공하며 API로 개인 작업 흐름을 연결합니다. | 비공개 (Ficory LLC) | 유료 크레딧·구독 | 제한된 무료 이용량; 현재 조건은 공식 페이지 참조 |
 
 > 💡 **Pro Tip:** For high-volume raw text extraction, **OCR.space** offers the most generous permanent free tier. For complex forms, **Amazon Textract** is the industry leader.
 
